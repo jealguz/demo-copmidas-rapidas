@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  const BOTPRESS_URL = 'https://botpress.com/tu-bot';
+  const BOTPRESS_URL = 'https://carritobooti.netlify.app/';
 
   const whatsappBtns = document.querySelectorAll('.btn--whatsapp');
 
